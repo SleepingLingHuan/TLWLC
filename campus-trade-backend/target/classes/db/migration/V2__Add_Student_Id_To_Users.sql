@@ -1,0 +1,1 @@
+ALTER TABLE users ADD COLUMN student_id VARCHAR(255) UNIQUE; 
