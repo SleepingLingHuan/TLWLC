@@ -1,8 +1,5 @@
-# TLWLC
-3.16 初版Spring Boot代码，已实现以下功能，并通过了Postman HTTP请求测试：<br>
-1. 创建并操作MySQL数据库中的user, item, transactions表格，分别用户存储用户信息，二手物品信息，交易记录。每一次用户操作都会改变对应物品和用户本人在数据库中的属性；<br>
-2. 实现用户注册和登录功能；<br>
-3. 用户上传和更新二手物品信息（支持本地图片上传）；<br>
-4. 用户发出购买请求，发出物品交换请求；<br>
-5. 用户响应购买和交换请求；<br>
-6. 获取指定用户全部信息，获取指定物品全部信息。<br>
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
